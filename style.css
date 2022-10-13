@@ -1,0 +1,50 @@
+body{
+margin: 0;
+font-family:system-ui;
+
+}
+
+.hero{
+
+}
+
+.hero2{
+max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 1rem;
+padding-right: 1rem;
+
+}
+.background{
+    background-image: url(../website/images/forest.jpg);
+    background-color:#0e6666 ;
+
+color: black;
+padding-top:100px ;
+padding-bottom: 25px;
+background-size: cover;
+}
+
+.bottomtext{
+    max-width: 960px;
+margin-left: auto;
+margin-right: auto;
+padding-left: 1rem;
+padding-right: 1rem;
+}
+
+.patter{
+    background-image: url(../website/images/stylish-hexagonal-line-pattern-background_1017-19742.png);
+    
+    background-repeat: repeat;
+
+color: black;
+padding-top:50px ;
+padding-bottom: 100px;
+background-size: cover;
+
+
+
+
+}
